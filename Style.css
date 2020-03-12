@@ -1,0 +1,25 @@
+body{
+    Position: center;
+    background: cadetblue;
+    text-align: center;
+    margin: auto;
+}
+#tableOfGrades{
+    Position: relative;
+}
+
+#gradeTable, #finalTable {
+    text-align: center;
+    color: darkblue;
+    position: relative;
+    margin: auto;
+    width: 50%;
+}
+
+#information {
+    Position: center;
+    text-align: center;
+    margin: auto;
+    width:25%;
+    color: darkblue;
+}
